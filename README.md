@@ -1,5 +1,3 @@
-# AI
-
 | 순서 | 제목 | 링크
 | :--: | :--: | :--: |
 | 1 | 양방향 LSTM을 사용한 채용공고 진위여부 판단 | [링크](https://github.com/2UJ1N/AI/tree/main/01_%EC%96%91%EB%B0%A9%ED%96%A5%20LSTM%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0%20%EC%A7%84%EC%9C%84%EC%97%AC%EB%B6%80%20%ED%8C%90%EB%8B%A8)
